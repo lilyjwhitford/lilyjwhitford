@@ -16,4 +16,4 @@ I'm a full stack web developer with a passion for front-end design and bringing 
 - Shopify theme development
 
 ## Let's connect!
-(portfolio link coming soon...) • [LinkedIn](https://linkedin.com/in/lily-whitford)
+[Portfolio](https://lilyjwhitford.netlify.app/) • [LinkedIn](https://linkedin.com/in/lily-whitford)
